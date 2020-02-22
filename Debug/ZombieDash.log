@@ -1,0 +1,9 @@
+﻿  Actor.cpp
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+  Generating Code...
+c:\users\albert\documents\ucla 2018\cs 32 projects\project3\zombiedash\zombiedash\actor.cpp(457): warning C4715: 'Human::followDirection': not all control paths return a value
+c:\users\albert\documents\ucla 2018\cs 32 projects\project3\zombiedash\zombiedash\actor.cpp(373): warning C4715: 'Human::okToMoveDir': not all control paths return a value
+  ZombieDash.vcxproj -> C:\Users\Albert\Documents\UCLA 2018\CS 32 Projects\Project3\ZombieDash\Debug\ZombieDash.exe
